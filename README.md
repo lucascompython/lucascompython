@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-LUCAS_DO_DRIP.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21hhx32ylbgrvfw4oobsc5fmy?si=46eeae3ec8394f9a)
+[<img src="https://spotify-now-playing-LUCAS-DO-DRIP.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21hhx32ylbgrvfw4oobsc5fmy?si=46eeae3ec8394f9a)
 
 ### Connect with me:
 
