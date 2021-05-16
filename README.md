@@ -11,7 +11,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https:novatorem-wheat-pi.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
+[<img src="https:novatorem-wheat-pi.vercel.app/api/spotify.py" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
 
 
 ### Connect with me:
