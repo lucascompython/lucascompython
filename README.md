@@ -99,9 +99,9 @@
 
 [website]: https://sitedripado.herokuapp.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/L33tRoccat
+[youtube]: https://www.youtube.com/channel/UCm-9WnO6nqa8nswMmG0sD2w
+[instagram]: https://www.instagram.com/lucas_delinhares/
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
