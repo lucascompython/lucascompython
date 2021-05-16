@@ -97,7 +97,7 @@
 
 </details>
 
-[website]: https://sitedripado.herokuapp.com
+[website]: http://sitedripado.herokuapp.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/L33tRoccat
 [youtube]: https://www.youtube.com/channel/UCm-9WnO6nqa8nswMmG0sD2w
