@@ -48,14 +48,13 @@
 ---
 
   <img align="left" alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucascompython&show_icons=true&hide_border=true&theme=dark" />
-<br />
-<br />
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
+
+
+
+
+
 
 <br />
 <br />
@@ -84,3 +83,16 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython&langs_count=100&theme=dark" />
