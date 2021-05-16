@@ -57,12 +57,6 @@
 
 
 
-<br />
-<br />
-
-
-
-
 [website]: https://sitedripado.herokuapp.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/L33tRoccat
