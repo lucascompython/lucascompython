@@ -47,7 +47,7 @@
 
 ---
 
-  <img align="left" alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucascompython&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucascompython&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" />
 
 ---
 
@@ -84,7 +84,7 @@
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython&langs_count=100&theme=dark" />
+<img align="left" alt="lucascompython's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython&langs_count=100&theme=dark" />
 
 
 <br />
