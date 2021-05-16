@@ -4,6 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/L33tRoccat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 ![Discord Server](https://img.shields.io/discord/404691077216600067?color=%237289DA&logo=discord&style=for-the-badge)
 [![Visits](https://komarev.com/ghpvc/?username=lucascomdrip&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/lucascomdrip)
+
+[<img align="left" alt="sitedripado.com" width="22px" src="https://komarev.com/ghpvc/?username=lucascomdrip&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" />][puta]
 ## About me!!
 
 - I'm Portuguese
@@ -69,6 +71,7 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[puta]: https://github.com/lucascomdrip
 <br />
 <br />
 <br />
