@@ -58,17 +58,11 @@
 
 
 [website]: https://sitedripado.herokuapp.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/L33tRoccat
 [youtube]: https://www.youtube.com/channel/UCm-9WnO6nqa8nswMmG0sD2w
 [instagram]: https://www.instagram.com/lucas_delinhares/
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [discord]: https://discord.gg/Eheq3KkSYj
-[stack]: https://www.google.com
+[stack]: https://stackoverflow.com/users/15077353/lucascomcpython
 
 <br />
 <br />
