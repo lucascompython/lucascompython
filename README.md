@@ -10,7 +10,7 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](https://lucascompython.vercel.app/api/spotify)](https://open.spotify.com/user/21hhx32ylbgrvfw4oobsc5fmy?si=d126df8e2f0e4402)
+[![Spotify](https://21hhx32ylbgrvfw4oobsc5fmy?si=d126df8e2f0e4402.vercel.app/api/spotify)](https://open.spotify.com/user/21hhx32ylbgrvfw4oobsc5fmy?si=d126df8e2f0e4402)
 
 
 ### Connect with me:
