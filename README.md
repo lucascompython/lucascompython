@@ -10,7 +10,7 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](novatorem-wheat-pi.vercel.app)](https://open.spotify.com/user/21hhx32ylbgrvfw4oobsc5fmy?si=d126df8e2f0e4402)
+[![Spotify](https://lucascompython.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 ### Connect with me:
