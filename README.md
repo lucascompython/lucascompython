@@ -10,7 +10,7 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](drena.vercel.app/spotify.py)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://drena.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 ### Connect with me:
