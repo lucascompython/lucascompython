@@ -49,6 +49,8 @@
 
   <img align="left" alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucascompython&show_icons=true&hide_border=true&theme=dark" />
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
