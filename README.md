@@ -10,7 +10,7 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](https://teste1-kappa.vercel.app)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://lucascompython.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 ### Connect with me:
