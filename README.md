@@ -10,7 +10,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-lucascompython.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21hhx32ylbgrvfw4oobsc5fmy?si=d12e3d27ecc74316)
+[<img src="https://spotify-novatorem-wheat-pi.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21hhx32ylbgrvfw4oobsc5fmy?si=d12e3d27ecc74316)
 
 
 ### Connect with me:
