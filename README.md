@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=sitedripado.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sitedripado.herokuapp.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/L33tRoccat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-![Discord Server](https://img.shields.io/discord/404691077216600067?style=for-the-badge)
+![Discord Server](https://img.shields.io/discord/404691077216600067?color=%237289DA&logo=discord&style=for-the-badge)
 ## About me!!
 
 - I'm Portuguese
