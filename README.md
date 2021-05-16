@@ -47,7 +47,7 @@
 
 ---
 
-  <img align="left" alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucascompython&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" />
+  <img align="left" alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucascompython&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" />
 
 ---
 
