@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=sitedripado.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sitedripado.herokuapp.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/L33tRoccat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-[![Instagram Follow](https://img.shields.io/instagram/follow/lucas_delinhares?color=1DA1F2&logo=twitter&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## About me!!
 
