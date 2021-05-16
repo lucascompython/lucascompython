@@ -5,7 +5,7 @@
 ![Discord Server](https://img.shields.io/discord/404691077216600067?color=%237289DA&logo=discord&style=for-the-badge)
 [![Visits](https://komarev.com/ghpvc/?username=lucascomdrip&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/lucascomdrip)
 
-[<img alt="sitedripado.com" width="202px" src="https://komarev.com/ghpvc/?username=lucascomdrip&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" />][puta]
+[<img alt="sitedripado.com" width="150" src="https://komarev.com/ghpvc/?username=lucascomdrip&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" />][puta]
 ## About me!!
 
 - I'm Portuguese
