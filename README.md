@@ -70,6 +70,7 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [puta]: https://github.com/lucascomdrip
+[Discord Server]: https://discord.gg/Eheq3KkSYj
 <br />
 <br />
 <br />
