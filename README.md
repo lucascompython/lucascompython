@@ -22,8 +22,9 @@
 [<img align="left" alt="lucascomdrip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="lucascomdrip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="lucascomdrip | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="lucascomdrip | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack]
-[<img align="left" alt="lucascomdrip | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
+[<img align="left" alt="lucascomdrip | stack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack]
+[<img align="left" alt="lucascomdrip | fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
+[<img align="left" alt="lucascomdrip | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 <br />
 
 ### Languages and Tools:
@@ -70,6 +71,7 @@
 [stack]: https://stackoverflow.com/users/15077353/lucascomcpython
 [puta]: https://github.com/lucascomdrip
 [fiverr]: https://www.fiverr.com/lucas_linhares/make-a-custom-and-advance-discord-bot-with-hosting
+[steam]: https://steamcommunity.com/id/GANDALUCAS/
 <br />
 <br />
 <br />
