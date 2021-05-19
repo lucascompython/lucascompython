@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://pimba.vercel.app/api/spotify.py" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/hs0vo3bq0xfojp2bh5uv7lv9q)
+[<img src="https://pimba.vercel.app/spotify.py" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/hs0vo3bq0xfojp2bh5uv7lv9q)
 
 ### Connect with me:
 
