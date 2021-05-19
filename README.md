@@ -6,7 +6,7 @@
 [<img alt="visits" width="155" src="https://komarev.com/ghpvc/?username=lucascomdrip&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" />][puta]
 ## About me!!
 
-- I'm Portuguese
+- Made in Portugal
 - I'm 15
 
 
