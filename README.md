@@ -102,6 +102,7 @@
   
 <!--START_SECTION:activity-->
 1. My Discord Name: Lucas cheio da drip#3273
+2. I got the DRIP!
 <!--END_SECTION:activity-->
 
 </details>
