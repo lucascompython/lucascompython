@@ -22,6 +22,7 @@
 [<img align="left" alt="lucascomdrip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="lucascomdrip | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="lucascomdrip | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack]
+[<img align="left" alt="lucascomdrip | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
 <br />
 
 ### Languages and Tools:
@@ -64,7 +65,7 @@
 [discord]: https://discord.gg/Eheq3KkSYj
 [stack]: https://stackoverflow.com/users/15077353/lucascomcpython
 [puta]: https://github.com/lucascomdrip
-
+[fiverr]: https://www.fiverr.com/lucas_linhares/make-a-custom-and-advance-discord-bot-with-hosting
 <br />
 <br />
 <br />
