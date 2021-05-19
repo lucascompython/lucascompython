@@ -11,7 +11,7 @@
 
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-drill.vercel.app/api/spotify.py)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://pimba.vercel.app/api/spotify.py)](https://open.spotify.com/user/USER_NAME)
 
 
 ### Connect with me:
