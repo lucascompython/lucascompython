@@ -8,6 +8,7 @@
 
 - Made in Portugal
 - I'm 15
+- I got Drip
 
 
 ### Spotify Playing 🎧
