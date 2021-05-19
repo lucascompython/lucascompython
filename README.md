@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-drill.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/hs0vo3bq0xfojp2bh5uv7lv9q)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hhx32ylbgrvfw4oobsc5fmy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
