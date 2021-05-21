@@ -61,7 +61,7 @@
 
 
 <br/>
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 [website]: https://sitedripado.herokuapp.com
 [twitter]: https://twitter.com/L33tRoccat
