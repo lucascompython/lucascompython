@@ -81,7 +81,7 @@
 
 ---
 
-<img align="left" alt="lucascompython's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython&langs_count=100&theme=dark" />
+<img align="left" alt="lucascompython's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython&langs_count=20&theme=dark" />
 
 
 <br />
