@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" />
+### Hi there, I'm Lucas <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> ![Discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=Lucas%20cheio%20da%20drip%236969)
 
 [![Website](https://img.shields.io/website?label=sitedripado.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sitedripado.herokuapp.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/L33tRoccat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
