@@ -9,6 +9,7 @@
 - Made in Portugal
 - I'm 16
 - I got Drip
+- Linus Torvalds once said **"A computer is like air conditionning, it becomes useless when you open Windows".**
 
 
 ### Spotify Playing 🎧
