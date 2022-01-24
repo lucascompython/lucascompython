@@ -62,8 +62,7 @@
 <img alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucascompython&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&" />
 
 
-<br/>
-<br/><br/><br/><br/>
+
 
 [website]: https://sitedripado.herokuapp.com
 [twitter]: https://twitter.com/L33tRoccat
@@ -115,6 +114,7 @@
 1. My Discord Name: Lucas cheio da drip#0230
 2. I got the DRIP!
 3. LOL UserName: L33tBzk
+4. I use Arch btw
 <!--END_SECTION:activity-->
 
 </details>
