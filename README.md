@@ -6,10 +6,11 @@
 [<img alt="visits" width="155" src="https://komarev.com/ghpvc/?username=lucascomdrip&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" />][puta]
 ## About me!!
 
-- Made in Portugal
+- From Portugal
 - I'm 16
 - I got Drip
 - Linus Torvalds once said **"A computer is like air conditionning, it becomes useless when you open Windows".**
+- Unix enthusiast
 
 
 ### Spotify Playing 🎧
