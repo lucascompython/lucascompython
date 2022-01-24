@@ -73,7 +73,7 @@
 [puta]: https://github.com/lucascomdrip
 [fiverr]: https://www.fiverr.com/lucas_linhares/make-a-custom-and-advance-discord-bot-with-hosting
 [steam]: https://steamcommunity.com/id/GANDALUCAS/
-<br />
+
 
 
 
@@ -82,24 +82,6 @@
 <img alt="lucascompython's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython&langs_count=20&theme=dark" />
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 
 ---
