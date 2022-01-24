@@ -74,10 +74,7 @@
 [fiverr]: https://www.fiverr.com/lucas_linhares/make-a-custom-and-advance-discord-bot-with-hosting
 [steam]: https://steamcommunity.com/id/GANDALUCAS/
 <br />
-<br />
-<br />
-<br />
-<br />
+
 
 
 ---
