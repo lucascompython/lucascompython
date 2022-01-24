@@ -61,7 +61,8 @@
 
 
 <img align="left" alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucascompython&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&" />
-![snake gif](https://github.com/afterjs/afterjs/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
