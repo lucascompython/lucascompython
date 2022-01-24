@@ -62,7 +62,7 @@
 
 <img align="left" alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucascompython&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&" />
 
-![snake gif](https://github.com/lucascompython/lucascompython/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -86,7 +86,7 @@
 <img alt="lucascompython's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython&langs_count=20&theme=dark" />
 </p>
 
-
+![snake gif](https://github.com/lucascompython/lucascompython/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
