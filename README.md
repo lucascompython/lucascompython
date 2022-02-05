@@ -16,7 +16,7 @@
 
 
 ### Spotify Playing 🎧
-<div align="left">
+<div>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hhx32ylbgrvfw4oobsc5fmy&cover_image=true&theme=default)](https://open.spotify.com/user/21hhx32ylbgrvfw4oobsc5fmy?si=a5a848b752914136)
 
