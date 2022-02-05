@@ -17,8 +17,11 @@
 
 ### Spotify Playing 🎧
 <p align="left">
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21hhx32ylbgrvfw4oobsc5fmy&cover_image=true&theme=default)](https://open.spotify.com/user/21hhx32ylbgrvfw4oobsc5fmy?si=a5a848b752914136)
+  
 </p>
+
 <p align="left">
 <img alt="lucascompython's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython&langs_count=20&theme=dark" />
 </p>
