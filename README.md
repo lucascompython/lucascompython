@@ -73,7 +73,7 @@
 <div align="center">
   <img alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucascompython&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&" />
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucascompython&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucascompython&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats){style="padding-bot:30px"}
 </div>
 
 
