@@ -89,7 +89,7 @@
 [fiverr]: https://www.fiverr.com/lucas_linhares/make-a-custom-and-advance-discord-bot-with-hosting
 [steam]: https://steamcommunity.com/id/GANDALUCAS/
 
-
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lucascompython&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
