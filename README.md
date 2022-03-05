@@ -91,6 +91,9 @@
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?lucascompython=ryo-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ---
 
@@ -101,6 +104,9 @@
 </div>
 
 ---
+
+
+
 
 <details>
   <summary>:zap: Others</summary>
