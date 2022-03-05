@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/L33tRoccat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 [![Discord Server](https://img.shields.io/discord/404691077216600067?color=%237289DA&logo=discord&style=for-the-badge)](https://discord.gg/Eheq3KkSYj)
 [<img alt="visits" width="159" src="https://komarev.com/ghpvc/?username=lucascomdrip&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" />][puta]
-[comment]: <> (<img alt="os" width="119" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white" />)
+<!---<img alt="os" width="119" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white" /> -->
 
 ## About me!!
 
