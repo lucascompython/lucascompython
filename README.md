@@ -15,7 +15,6 @@
 - From Portugal
 - I'm 16
 - I got Drip
-- Linus Torvalds once said **"A computer is like air conditionning, it becomes useless when you open Windows".**
 - Unix enthusiast
 - mood: ![:the_jam:](https://cdn.discordapp.com/emojis/745354525958996138.gif?v=1) 
 
