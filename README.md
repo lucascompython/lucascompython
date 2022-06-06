@@ -41,7 +41,7 @@
 [<img align="left" alt="lucascomdrip | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 <br />
 --->
-### Check my gist [here](gist.github.com/lucascompython)
+### Check my gist [here](https://gist.github.com/lucascompython)
 
 ### Languages and Tools:
 
