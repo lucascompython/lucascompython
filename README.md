@@ -41,7 +41,6 @@
 [<img align="left" alt="lucascomdrip | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 <br />
 --->
-### Check my gist [here](https://gist.github.com/lucascompython) for some of my very interesting scripts.
 
 ### Languages and Tools:
 
@@ -119,8 +118,8 @@
   <summary>:zap: Others</summary>
   
 <!--START_SECTION:activity-->
-1. My Discord Name: Lucas cheio da drip#0230
-2. I got the DRIP!
+1. Check my gist [here](https://gist.github.com/lucascompython) for some of my very interesting scripts.
+2. My Discord Name: Lucas cheio da drip#0230
 3. LOL UserName: L33tBzk
 4. I use Arch btw
 <!--END_SECTION:activity-->
