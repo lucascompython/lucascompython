@@ -3,9 +3,7 @@
   ### Hi there, I'm Lucas 
 
  
-  
-  [<img alt="visits" width="159" src="https://komarev.com/ghpvc/?username=lucascomdrip&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" />][puta]
-  
+ 
  </div> 
 <!---<img alt="os" width="119" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white" /> -->
 
