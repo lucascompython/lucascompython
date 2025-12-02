@@ -17,21 +17,6 @@
   <img alt="lucascompython's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascompython&langs_count=9&theme=dark" /> 
   
 </div>
-
-
-
-
-
-
-<div align="center">
-  <img alt="lucascomdrip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucascompython&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&" />
-
-</div>
-
-
-
-
-
 ---
 
 
@@ -47,4 +32,5 @@
 <!--END_SECTION:activity-->
 
 </details>
+
 
